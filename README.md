@@ -1,4 +1,6 @@
 Depending on the version of MacOS, you will need the kext AirportItlwm.kext for  wifi
+https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.2.0
+
 
 This build works stably on the following configuration:
 
